@@ -2,9 +2,9 @@ const menu = (pushname, sender, data, hora, prefixo) => {
 
 // NÃO APAGUE ESSE ${prefixo}, não coloque nada ${dentro assim} ISSO SÃO DEFINIÇÕES QUE ESTÁ PUXANDO DA CONFIGURAÇÃO.JS, da pasta dono, só pode altera a base de tudo, menos as definições, só se quiser apagar a definição completa. 
 
-// BY: ALIZIN DEV
+// 
 // Pode Alterar Todo o Menu 
-//  [🩸] DUDA BOT BASE
+//  [🩸] 
 return `
 ╭────────────╮
 *┝━ 𖡦 Suas Informações*
@@ -16,7 +16,7 @@ return `
 ╎👾 Prefix: ${prefixo}
 ╰────────────╮
 ╭────────────╯
-*┝━ 𖡦 Para/Todos*
+*┝━ 𖡦 Todos*
 ╎
 ╎𖤛 ${prefixo}Perfil
 ╎𖤛 ${prefixo}Play (NOME DA MÚSICA)
@@ -28,7 +28,7 @@ return `
 ╎𖤛 ${prefixo}S
 ╰────────────╮
 ╭────────────╯
-*┝━ 𖡦 Para/Adms*
+*┝━ 𖡦 Adms*
 ╎
 ╎𖤛 ${prefixo}Promover (@NUMERO) 
 ╎𖤛 ${prefixo}Rebaixar (@NUMERO) 
@@ -43,7 +43,7 @@ return `
 ╎𖤛 ${prefixo}Marcar
 ╰────────────╮
 ╭────────────╯
-*┝━ 𖡦 Para/dono*
+*┝━ 𖡦 AdmG*
 ╎
 ╎𖤛 ${prefixo}Sair
 ╎𖤛 ${prefixo}Executar
